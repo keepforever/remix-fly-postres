@@ -13,6 +13,7 @@ export default function Index() {
       <h1 className="text-2xl font-bold text-center">
         Hello second deployment!
       </h1>
+      <p className="text-center">this commit should be signed</p>
     </div>
   );
 }
